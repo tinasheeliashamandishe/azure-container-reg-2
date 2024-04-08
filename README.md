@@ -41,7 +41,7 @@ Here, my repository is empty, so there is nothing.<br/>
 
 <h4>Step 2</h4> 
 Push an image to the repository.<br/>
-Here, I am pushif an image from Docker-Hub to the repository, using command prommpt.<br/>
+Here, I am pushing an image from Docker-Hub to the repository, using command prommpt.<br/>
 <img src="https://i.imgur.com/ysYshnm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 <br />
 
